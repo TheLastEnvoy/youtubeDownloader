@@ -1,5 +1,11 @@
 🎬 youTubeDownloader
 
+# 🎬 YouTube Downloader
+
+[![Download Latest Release](https://img.shields.io/github/v/release/TheLastEnvoy/youtubeDownloader?style=for-the-badge&logo=github&label=Download)](https://github.com/TheLastEnvoy/youtubeDownloader/releases/latest)
+
+Um aplicativo desktop elegante e eficiente para baixar vídeos e áudios do YouTube...
+
 Um aplicativo desktop elegante e eficiente para baixar vídeos e áudios do YouTube com interface gráfica amigável e funcionalidades avançadas.
 ✨ Funcionalidades
 
