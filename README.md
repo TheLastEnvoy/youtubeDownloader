@@ -4,7 +4,7 @@
 
 [![Download Latest Release](https://img.shields.io/github/v/release/TheLastEnvoy/youtubeDownloader?style=for-the-badge&logo=github&label=Download)](https://github.com/TheLastEnvoy/youtubeDownloader/releases/latest)
 
-Um aplicativo desktop elegante e eficiente para baixar vídeos e áudios do YouTube com interface gráfica amigável e funcionalidades avançadas.
+Clique no link acima para baixar o executável já compilado com o PyInstaller, pronto para uso!
 
 ✨ Funcionalidades
 
